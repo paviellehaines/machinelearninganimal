@@ -1,6 +1,6 @@
 # Machine Learning with Animal Shelters
 
-This ongoing project was originally a Kaggle competition in which participants were given training data containing information about the characterstics and outcomes of various shelter animals. They were instructed to generate a model that could accurately predict the outcome of animals based on their characterstics. This code represents a first attempt at machine learning is still a work in progress. The training data is provided.
+This ongoing project was originally a Kaggle competition in which participants were given training data containing information about the characterstics and outcomes of various shelter animals. They were instructed to generate a model that could accurately predict the outcome of animals based on their characterstics. This code represents a first attempt at machine learning and is still a work in progress. The training data is provided.
 
 Animal Train.csv: This is a training dataset that contains information about various shelter animals, including whether they are a cat or dog, their breed, color, and name. It also incudes their outcome: reunited with owner, adopted, transferred, died or euthanized.
 
